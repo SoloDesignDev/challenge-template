@@ -1,5 +1,7 @@
 #!/bin/bash
-# Script pour exécuter la calculatrice
+# Use this script to run your program LOCALLY.
+#
+# Note: Changing this script WILL NOT affect how CodeCrafters runs your program.
 
 operation=$1
 a=$2
